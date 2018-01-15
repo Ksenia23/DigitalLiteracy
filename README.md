@@ -7,8 +7,9 @@
 
     Люблю звёздочки \***
     
+##Мой любимый актёр - Констанин Хабенский
 
-!( https://github.com/Ksenia23/DigitalLiteracy/blob/master/haba.jpg "Мой любимый актёр - Константин Хабенский")
+![](https://github.com/Ksenia23/DigitalLiteracy/blob/master/haba.jpg)
 
 ## Моя страница в вконтакте [ссылка](http://vk.com/ksenia_amelia)  
 
